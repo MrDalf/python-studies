@@ -2,15 +2,10 @@
 Basic mathematical operations can be performed in Python using the symbols below:
 
 SUM (+)
-
 SUBTRACTION (-)
-
 DIVISION (/)
-
 MULTIPLICATION (*)
-
 POWER (**)
-
 REMAIN (%)
 
 Python will follow the same order of operations as math.
