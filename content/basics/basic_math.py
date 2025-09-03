@@ -1,7 +1,6 @@
 """
 Este arquivo é sobre operações matemáticas em Python.
 
-<<<<<<< HEAD
 SUM (+)
 SUBTRACTION (-)
 DIVISION (/)
@@ -57,12 +56,10 @@ print((1 + 2) ** 2)   # (1+2) ** 2 → 3**2 = 9
 print(2 * 2 ** 2)     # 2 * (2**2) = 2*4 = 8
 print((2 * 2) ** 2)   # (2*2)**2 = 4**2 = 16
 
-<<<<<<< HEAD
 print(1+2**2)
 print((1+2)**2)
 print(2*2**2)
 print((2*2)**2)
-=======
 """
 ==================================================
 3) Números negativos e floats
@@ -99,4 +96,3 @@ import math
 print(math.sqrt(16))  # → 4.0 (raiz quadrada)
 print(math.pi)        # → 3.141592653589793
 print(math.factorial(5)) # → 120
->>>>>>> 80cab98 (basic content)
